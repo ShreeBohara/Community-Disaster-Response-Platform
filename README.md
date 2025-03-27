@@ -49,6 +49,3 @@ This MERN stack-based system empowers communities to:
 - **VSCode** (IDE)
 
 ---
-
-## 🧱 Project Structure
-
