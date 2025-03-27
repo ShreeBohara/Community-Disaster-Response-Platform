@@ -1,4 +1,4 @@
-# Community-Disaster-Response-Platform# 🆘 Community Disaster Response Platform
+# 🆘 Community Disaster Response Platform
 
 A real-time web platform to coordinate disaster relief efforts by connecting **volunteers** with **victims**, tracking **resource requests**, visualizing locations on **Google Maps**, and collecting **donations** through Stripe.
 
