@@ -47,5 +47,3 @@ This MERN stack-based system empowers communities to:
 - **MongoDB Compass** (local DB inspection)
 - **Git & GitHub** (version control)
 - **VSCode** (IDE)
-
----
